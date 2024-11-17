@@ -1,4 +1,4 @@
-# Docker container for building [https://github.com/STMicroelectronics/gnu-tools-for-stm32](the STM32 toolchain)
+# Docker container for building [the STM 32 toolchain](https://github.com/STMicroelectronics/gnu-tools-for-stm32)
 
 **I am not related in any way to STM, I have no intention to maintain this repository, it's posted purely as an educational example.**
 
